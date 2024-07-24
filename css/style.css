@@ -9,13 +9,12 @@ img{
 .container{
     width: 90%;
     margin: 50px auto;
-    padding: 10px;
+    
 }
 .product{
     margin-top: 50px;
     margin-left: 80px;
     width: 85%;
-    
     height: 780px;
 }
 .heading{
@@ -47,6 +46,7 @@ img{
 }
 .product-details p{
     padding-top: 10px;
+    color: rgb(121, 121, 121);
 }
 .product-price{
     width: 90%;
@@ -59,6 +59,7 @@ img{
 .product-price .before-sale{
     color: red;
     font-size: small;
+    text-decoration: line-through;
 }
 .product-btn{
     width: 90%;
